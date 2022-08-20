@@ -80,7 +80,6 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
         lifecycleScope.launch {
             viewModel.listData.collectLatest {
                 characterAdapter.submitData(it)
-
             }
         }
     }
