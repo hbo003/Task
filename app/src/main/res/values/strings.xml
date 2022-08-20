@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="create_new_post">Create New Post</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="name_repo">Repo Name</string>
+    <string name="stargazers_count">StarGazers Count</string>
+    <string name="repo_details">Repo Details</string>
+    <string name="createddate">Created Date</string>
+    <string name="home">Home</string>
+</resources>
